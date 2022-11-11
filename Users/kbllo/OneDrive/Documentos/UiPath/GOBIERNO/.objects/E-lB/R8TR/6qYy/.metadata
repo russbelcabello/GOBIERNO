@@ -1,0 +1,15 @@
+﻿{
+  "Id": "6qYyvU9br06tAPF3fxM1-Q",
+  "Reference": "184C6dAH_Eebae3f6m01Tw/6qYyvU9br06tAPF3fxM1-Q",
+  "ParentRef": "184C6dAH_Eebae3f6m01Tw/R8TR-nsqfUa24FiRRCuI3A",
+  "Name": "EEE",
+  "Type": "Screen",
+  "Created": "2022-11-10T22:03:09.4379934Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-10T22:03:31.0546215Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
